@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 ~ I'm Akash 😇</h1>
 
-<img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=akashkmt&show_icons=true&theme=gradient" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=akashkmt&show_icons=true&theme=gradient" />
 <img align="right" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkmt&layout=compact" />
 
 <!-- <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
