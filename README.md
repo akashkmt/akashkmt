@@ -21,8 +21,8 @@ class Skills extends SoftwareDeveloper {
 
 
 <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=akashkmt&show_icons=true&theme=gradient" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkmt&layout=compact" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akashkmt&show_icons=true&theme=gradient" />
+  <img width="48.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkmt&layout=compact" />
 </div>
 
 <!-- <h2 align="right">💻</h2> -->
