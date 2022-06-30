@@ -1,5 +1,23 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Akash <img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
 
+<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="350" align="right" alt="" />
+
+```js
+import SoftwareDeveloper from 'India';
+class Bio extends SoftwareDeveloper {
+  name     = 'Akash Kumawat';
+  title    = 'Software Engineer' || 'Full Stack Web Developer';
+  location = 'Rajasthan, India';
+  availability = "Available to hire!!"
+}
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
+}
+```
+
+<br/>
+
+
 <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=akashkmt&show_icons=true&theme=gradient" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkmt&layout=compact" />
@@ -32,22 +50,6 @@
   <a href="https://linkedin.com/in/akashkmt" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="m-sehrawat" /></a>
   <a title="akashkmt963@gmail.com" href="mailto:akashkmt963@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akash" /></a> 
 </p>
-
-<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="300" align="right" alt="" />
-
-```js
-import SoftwareDeveloper from 'India';
-class Bio extends SoftwareDeveloper {
-  name     = 'Akash Kumawat';
-  title    = 'Software Engineer' || 'Full Stack Web Developer';
-  location = 'Rajasthan, India';
-  availability = "Available to hire!!"
-}
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
-}
-```
-
 
 <hr />
 
