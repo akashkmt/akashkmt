@@ -15,15 +15,12 @@ class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux', 'NodeJs'];
 }
 ```
-<br />
-
-<br />
-
 <!-- <h2 align="right">💻</h2> -->
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkmt&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 <a href="https://github.com/akashkmt?tab=followers"><img src="https://img.shields.io/github/followers/akashkmt?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+<br />
 <div>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=akashkmt&show_icons=true&theme=gradient" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkmt&layout=compact" />
