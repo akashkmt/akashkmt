@@ -18,7 +18,6 @@ class Skills extends SoftwareDeveloper {
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akashkmt&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 <a href="https://github.com/akashkmt?tab=followers"><img src="https://img.shields.io/github/followers/akashkmt?label=Followers&style=social" alt="GitHub Badge"></a>
-<!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{akashkmt}1212%2Fhit-counter" alt""/> -->
 </p>
 <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=akashkmt&theme=minimal" alt="activitygraph" />
