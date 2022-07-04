@@ -16,7 +16,7 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 <br/>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=akashkmt&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkmt&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 <a href="https://github.com/akashkmt?tab=followers"><img src="https://img.shields.io/github/followers/akashkmt?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <br />
