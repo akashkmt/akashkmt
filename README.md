@@ -10,10 +10,12 @@ class Bio extends SoftwareDeveloper {
   name     = 'Akash Kumawat';
   title    = 'Software Engineer' || 'Full Stack Web Developer';
   location = 'Rajasthan, India';
-  availability = "Available to hire!!"
+  availability = "Available to hire!!";
 }
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux', 'NodeJs'];
+  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
+  backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
+  ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
 }
 ```
 <br/>
