@@ -75,12 +75,13 @@ class Skills extends SoftwareDeveloper {
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkmt&layout=compact" />
 </div>
 <br />
+<!--
 <img src="https://activity-graph.herokuapp.com/graph?username=akashkmt&theme=minimal" alt="activitygraph" /> 
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkmt" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=akashkmt" alt=""/> </p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashkmt&theme=vue" alt="summarycard"/> </p>
 <hr />
-
+-->
 
 
