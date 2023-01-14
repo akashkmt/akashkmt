@@ -70,11 +70,13 @@ class Skills extends SoftwareDeveloper {
   <a href="https://akashkmt-portfolio.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
 <br />
+<!--
 <div>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=akashkmt&show_icons=true&theme=gradient" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkmt&layout=compact" />
 </div>
 <br />
+-->
 <!--
 <img src="https://activity-graph.herokuapp.com/graph?username=akashkmt&theme=minimal" alt="activitygraph" /> 
 <br />
