@@ -1,5 +1,6 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Akash <img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
-<h4 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h4>
+<h1 align="center">Hi 👋, I'm Akash</h1>
+<h3 align="left">A full-stack ninja by day, culinary explorer by night, and a nature enthusiast always! With expertise in the MERN stack, I thrive on building dynamic, scalable web applications from scratch. When I’m not diving into code or mentoring coding prodigies, you’ll find me whipping up a storm in the kitchen or venturing into the great outdoors. Tech-savvy, adventure-ready, and with a knack for multitasking, I effortlessly blend code and creativity.</h3>
+
 <h3><i>Tech Stack</i></h3>
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
