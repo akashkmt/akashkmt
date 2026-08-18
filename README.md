@@ -2,7 +2,7 @@
 
 **Senior Software Engineer @ [Tracxn](https://tracxn.com) · Bengaluru, India**
 
-Full-stack engineer with 4+ years building scalable, high-performance web applications with React, Next.js, Node.js, TypeScript, and AWS. Lately I spend most of my time on **AI-assisted tooling** — building MCP servers, agent workflows, and the tools that power Tracxn's AI Assistant.
+Full-stack engineer with 4+ years building scalable, high-performance web applications with React, Next.js, Node.js, TypeScript, and AWS. Lately I spend most of my time on **AI-assisted tooling** - building MCP servers, agent workflows, and the tools that power Tracxn's AI Assistant.
 
 [![Website](https://img.shields.io/badge/Website-akashkmt.in-000?style=flat-square&logo=google-chrome&logoColor=white)](https://akashkmt.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akashkmt-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashkmt)
